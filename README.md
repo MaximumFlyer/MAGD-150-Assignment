@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Lab 6](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab06_McFeggan)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
