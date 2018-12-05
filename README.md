@@ -1,38 +1,17 @@
-## Welcome to GitHub Pages
+Hello, my name is Max. I dream of being a game designer, so I took MAGD 150 to help get into it more. I found this class to be quite helpful and really helped introduced me into Java. I have listed below five examples of what I consider my "personal best work" of all the assignments I have completed over the course of this semester.
 
-You can use the [editor on GitHub](https://github.com/MaximumFlyer/MAGD-150-Assignment/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+**A brief description of each project, linked below.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lab 4, Dynamism: A ocean setting that uses while loops and includes features like summoning bubbles with key presses and changing the time of day with a click of the mouse.
+Lab 5, Intersections: a TV that can be turned on and off with special button commands. Features a little bouncy ball as well.
+Lab 6, Organazation: Implementing classes, it mainly displays two bouncy balls that make up lines to act like some cool looking screensaver.
+Lab 8, Text: Utilizing texts and the ability to save PDFs, showing off a little movie posters that parodies "Alien"
+Lab 9, Image/Sound/Video: A simple project that displays a movie, a picture, and sound effects like some kind of home movie.
 
-### Markdown
+**Links:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[Lab 4](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18magd150lab04_McFeggan)
+[Lab 5](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18magd150lab05_McFeggan)
 [Lab 6](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab06_McFeggan)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaximumFlyer/MAGD-150-Assignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Lab 8](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab08_McFeggan)
+[Lab 9](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab09_McFeggan)
