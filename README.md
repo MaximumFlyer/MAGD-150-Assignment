@@ -10,7 +10,7 @@ Lab 9, Image/Sound/Video: A simple project that displays a movie, a picture, and
 
 **Links:**
 
-[Lab 4](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18magd150lab04_McFeggan)
+[Lab 4](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18magd150lab04_McFeggan)\
 [Lab 5](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18magd150lab05_McFeggan)
 [Lab 6](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab06_McFeggan)
 [Lab 8](https://github.com/MaximumFlyer/MAGD-150-Assignment/tree/gh-pages/f18_magd150lab08_McFeggan)
